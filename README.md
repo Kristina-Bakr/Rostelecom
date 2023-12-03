@@ -5,3 +5,7 @@
 - Ручные и автоматизированные тесты
 - Разбиение на классы эквивалентности
 - Тестирование граничных значений
+
+
+тест-кейсы 
+https://docs.google.com/spreadsheets/d/1WoR7U1mI_ZBxQlto_b8oLy2e2yBSgyPeUDiWmqqdLXk/edit?usp=sharing
